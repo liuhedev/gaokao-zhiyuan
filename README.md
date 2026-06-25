@@ -33,8 +33,8 @@ python scripts/recommend.py --province 北京 --combo 物化生 --rank 28593 \
 - 录取位次 / 控制线：教育部阳光高考 <https://gaokao.chsi.com.cn>、各省考试院。
 - 就业绿/红牌：麦可思就业蓝皮书。急需方向：教育部红黄牌提示制度。出处见 [`references/employment-direction.md`](references/employment-direction.md)。
 
-## 致谢
-决策框架部分借鉴 [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)——**仅借通用方法论**（就业倒推、中位数、城市优先），不复制其人设/语录/表达风格。
+## 方法论
+决策框架采用行业通行的**就业导向志愿原则**：就业倒推看中位数（看中间 50% 毕业生，不看顶尖个案）、城市优先、专业不可替代性、理工选专业·文科选学校。
 
 ## 免责声明
 本工具仅供参考，**不构成官方录取承诺**。一切以考生所在省教育考试院官方一分一段表与历年投档数据为准。
